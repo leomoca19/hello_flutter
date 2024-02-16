@@ -1,6 +1,7 @@
 # hello_flutter
 
-Simple demo application.
+Simple demo application, getting to know Flutter and Dart language.
+Followed instructions from: https://docs.flutter.dev/get-started/codelab
 
 ## Getting Started
 
