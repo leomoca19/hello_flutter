@@ -34,8 +34,6 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     var appState = context.watch<MyAppState>();
 
-    print("Hello World");
-
     return Scaffold(
       body: Column(
         children: [
